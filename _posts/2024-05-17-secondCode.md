@@ -5,3 +5,5 @@ Date: 2024-05-17
 
 This is my second code project 
 [Second Code](/creativeCoding/imageArt/index.html)
+
+![An image of the process of creating my second creative code](/creativeCoding/imagess/second-post-image.png)
