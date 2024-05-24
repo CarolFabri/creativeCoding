@@ -8,3 +8,5 @@ My last code project
 
 
 ![An image of the process of creating my code](/creativeCoding/imagess/noiseColour.png)
+![An image of the process of creating my code](/creativeCoding/imagess/noiseColour2.png)
+![An image of the process of creating my code](/creativeCoding/imagess/noiseColour3.png)
