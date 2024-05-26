@@ -3,7 +3,7 @@ Title: Third Code- Showcase
 Date: 2024-05-17
 ---
 
-[My Third code !](/creativeCoding/thirdcodeoriginal/index.html)
+[My Third code SHOWCASE !](/creativeCoding/thirdcodeoriginal/index.html)
 
 
 ![An image of the process of creating my code](/creativeCoding/imagess/thirdimg.png)
