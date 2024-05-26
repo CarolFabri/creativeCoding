@@ -6,7 +6,7 @@ Title: My First p5.js code
 
 ![An image of the process of creating my first creative coding](/creativeCoding/imagess/firtimage.png)
 ![An image of the process of creating my first creative coding](/creativeCoding/imagess/firsttwo.png)
-![An image of the process of creating my first creative coding](/creativeCoding/imagess/firtthree.png)
+![An image of the process of creating my first creative coding](/creativeCoding/imagess/firstthree.png)
 
 
 
